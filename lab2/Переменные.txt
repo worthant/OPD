@@ -1,0 +1,3 @@
+A = DEAD
+B = ABBA
+D = 7634
