@@ -1,0 +1,10 @@
+- feh: for viewing .png images from terminal
+- pSensor: for monitoring temperatures 
+
+
+commands:
+  top #view all system processses
+  sudo pacman - Syu #synhro with Linux database + download
+anything from Linux mirror
+  sudo fdisk -l #view list of all sectors
+
