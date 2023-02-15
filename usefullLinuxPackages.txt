@@ -1,6 +1,9 @@
 - feh: for viewing .png images from terminal
 - pSensor: for monitoring temperatures 
-
+- sublime-text: for sditing documents
+- java jdk: for java and executing .jar files
+- android studio: for native app developement
+- pycharm: help executing regular tasks flawlessy
 
 commands:
   top #view all system processses
