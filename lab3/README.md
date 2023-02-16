@@ -9,4 +9,5 @@ Also, perform a program tracing
 # Var 3104
 
 ![Задание](./docs/task.png)
-- [Отчёт](./docs/report.pdf)
+- [Report.pdf](./docs/report.pdf)
+- [Report.docx](./docs/Р3131 ОПД ЛР3 Дворкин Б.А..docx)
