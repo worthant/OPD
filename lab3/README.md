@@ -10,4 +10,4 @@ Also, perform a program tracing
 
 ![Задание](./docs/task.png)
 - [Report.pdf](./docs/report.pdf)
-- [Report.docx](./docs/Р3131 ОПД ЛР3 Дворкин Б.А..docx)
+- [Report.docx](./docs/report.docx)
