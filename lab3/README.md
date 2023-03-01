@@ -6,7 +6,8 @@ Determine:
 - the range of allowable values for the input data and result. 
 Also, perform a program tracing
 
-# Вариант 3104
+# Var 3104
 
 ![Задание](./docs/task.png)
-- [Отчёт](./docs/report.pdf)
+- [Report.pdf](./docs/report.pdf)
+- [Report.docx](./docs/report.docx)
