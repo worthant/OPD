@@ -26,9 +26,9 @@ START: ; result = – F(X + 1) + F(Y – 1) + F(Z + 1) – 1
 	SUB result
 	ST result
 	HLT
-	z: WORD 0x1
-	x: WORD 0x2
-	y: WORD 0x3
+	z: WORD 0x029A
+	x: WORD 0xFFFC
+	y: WORD 0x000D
 	result: WORD 0x003E
 	
 	
