@@ -1,8 +1,6 @@
 ORG 0x10
 
-adr: WORD 0x800
-len: WORD 4
-
+result: WORD 0
 START:
  LD #3
  PUSH
@@ -15,17 +13,21 @@ START:
  CALL $function
  HLT
   
-
 ORG 0x70
 function:
-  CLA
-  ADD -(adr)
-  ST len
+  POP
+  ST return
+  POP
+  ST length
   repeat: 
-    LD result
-    ADD -(adr)
+    POP
+    ADD result
     ST result
-  LOOP len
+  LOOP length
   JUMP repeat
+  LD return
+  PUSH
   RET
-  result: WORD 0
+
+length: WORD ?
+return: WORD ?
