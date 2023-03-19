@@ -2,13 +2,19 @@ ORG 0x10
 
 result: WORD 0
 START:
+ LD #5
+ PUSH
+ LD #6
+ PUSH
+ LD #5
+ PUSH
  LD #3
  PUSH
  LD #3
  PUSH
  LD #4
  PUSH
- LD #3
+ LD #6
  PUSH
  CALL $function
  HLT
