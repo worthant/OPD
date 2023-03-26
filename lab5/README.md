@@ -1,0 +1,9 @@
+# Laboratory work 5
+
+Based on the assignment provided by the instructor, develop a program for asynchronous data exchange with an external device.   
+Using the program, perform input or output of information, using a readiness signal (button) of the external device as confirmation of the data.
+
+# Var 3102
+
+![Задание](./docs/task.png)
+- [Отчёт](./docs/report.pdf)
