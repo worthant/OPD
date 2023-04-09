@@ -7,3 +7,10 @@ Using the program, perform input or output of information, using a readiness sig
 
 ![Задание](./docs/task.png)
 - [Отчёт](./docs/report.pdf)
+
+## Additional task
+```python
+	Вводить символы с `ВУ Клавиатура` в кодировке по варианту.
+	Каждый символ транслировать в кодировку CP866 и только потом сохранять в память. 
+	По окончанию ввода, вывести всю строку на `ВУ Принтер`.
+```
