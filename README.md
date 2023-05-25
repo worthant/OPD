@@ -11,7 +11,7 @@ it`s my Programming on assembly aDventure 🎉
 |[Laboratory work №4](./lab4)|10/10|[Мануал к 4 лабе](https://vk.com/wall-192451261_14)|
 |[Laboratory work №5](./lab5)|10/10|Мануал к 5 лабе: [1 часть](https://vk.com/wall-192451261_20), [2 часть](https://vk.com/wall-192451261_21)|
 |[Laboratory work №6](./lab6)|10/10|[Мануал к 6 лабе](https://vk.com/wall-192451261_27)|
-|[Laboratory work №7](./lab7)||
+|[Laboratory work №7](./lab7)|10/10|
 
 ## Links:
 
