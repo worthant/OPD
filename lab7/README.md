@@ -13,5 +13,5 @@ test programs into the main memory of the BESM computer. Verify and debug the de
 
 ## Additional task
 ```python
-Пока что доп не дали :)
+С таким вариантом на лабу ещё бы допы давать)
 ```
